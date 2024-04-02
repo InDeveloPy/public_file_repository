@@ -1,0 +1,2 @@
+VisualStudioSetup.exe install /quiet /norestart /log install.log
+"C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe" modify --installPath "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community" --config "conf.vsconfig" --quiet --norestart
